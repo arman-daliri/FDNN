@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FDNN"
+version = "0.1.0"
+authors = [
+  { name = "Arman Daliri", email = "daliriwork2@gmail.com" }
+]
+description = "Fuzzy Deep Neural Network (FDNN)"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+dependencies = ["tensorflow"]
+
+[project.urls]
+Homepage = "https://github.com/arman-daliri/FDNN"
