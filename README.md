@@ -8,11 +8,11 @@ By nature, the values ​​should change, and the model should remain stable an
 # Accepted on: 
 ## 32nd National and 10th International Iranian Conference on Biomedical Engineering (ICBME)
 ### https://tstaconf.ir/icbme/en
--
+
 
 # package:
 ### https://pypi.org/project/FDNN/
--
+
 # How to use:
 # Run: 
 ## Installation
