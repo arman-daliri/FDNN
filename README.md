@@ -1,12 +1,19 @@
 # FDNN
+## Article title:
 Prediction of cardiac arrhythmia via an improved hierarchical fused fuzzy deep learning
 -
 ## Note that the values ​​of the interpretability criteria change each time you run and output.
 By nature, the values ​​should change, and the model should remain stable and interpretable. So don't be surprised if the graphs change.
+-
+# Accepted on: 
+## 32nd National and 10th International Iranian Conference on Biomedical Engineering (ICBME)
+### https://tstaconf.ir/icbme/en
+-
 
 # package:
 ### https://pypi.org/project/FDNN/
-
+-
+# How to use:
 # Run: 
 ## Installation
 ```bash
